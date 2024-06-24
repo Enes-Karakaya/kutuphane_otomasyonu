@@ -1,0 +1,11 @@
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe.config
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.exe
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\bin\Debug\kutuphane_otomasyonu.pdb
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form1.resources
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.GenerateResource.cache
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.exe
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.pdb
+C:\Users\Enes Karakaya\Desktop\kütüphane otomasyonu\kutuphane_otomasyonu\kutuphane_otomasyonu\obj\Debug\kutuphane_otomasyonu.Form2.resources
